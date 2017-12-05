@@ -1,0 +1,13 @@
+\beamer@sectionintoc {1}{An Introduction to Qutip}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Installation and Some Dos and Don'ts}{6}{0}{1}
+\beamer@subsectionintoc {1}{2}{Finite Hilbert Space!}{8}{0}{1}
+\beamer@subsectionintoc {1}{3}{States and Operators}{9}{0}{1}
+\beamer@subsectionintoc {1}{4}{Solving Equation of Quantum System by Qutip}{10}{0}{1}
+\beamer@sectionintoc {2}{An Introduction to Quasi-probability Theory}{22}{0}{2}
+\beamer@subsectionintoc {2}{1}{Motivation}{22}{0}{2}
+\beamer@subsectionintoc {2}{2}{P-representation}{24}{0}{2}
+\beamer@subsectionintoc {2}{3}{Q-representation}{27}{0}{2}
+\beamer@subsectionintoc {2}{4}{Wigner-function}{28}{0}{2}
+\beamer@sectionintoc {3}{Some Examples and Exercise}{30}{0}{3}
+\beamer@subsectionintoc {3}{1}{Cat State(Demo)}{30}{0}{3}
+\beamer@subsectionintoc {3}{2}{Kerr Effect to Create Cat State(Exercise)}{33}{0}{3}

@@ -1,0 +1,19 @@
+\frametitle{States and Operators in Qutip}
+\begin{listing}
+	d = 5
+	#the dimension of the Hilbert space
+	g = basis(d,0)
+	e1 = basis(d,1)
+	e2 = basis(d,2)
+	print(g)
+	print(e1)
+	print(e2)
+
+	a=destroy(d)
+	a_dag = create(d)
+	e1 = a_dag*g
+	e2 = (a_dag * a_dag * g).unit()
+	print(g)
+	print(e1)
+	print(e2)
+\end{listing}

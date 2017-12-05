@@ -1,0 +1,76 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{An Introduction to Qutip}{3}{An Introduction to Qutip}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{0}{2}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {1}{0}{3}{5/5}{}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{6}{Installation and Some Dos and Don'ts}}\headcommand {\beamer@subsectionpages {3}{5}}
+\headcommand {\slideentry {1}{1}{1}{6/6}{Installation and Some Dos and Don'ts}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {1}{1}{2}{7/7}{Installation and Some Dos and Don'ts}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{8}{Finite Hilbert Space!}}\headcommand {\beamer@subsectionpages {6}{7}}
+\headcommand {\slideentry {1}{2}{1}{8/8}{Finite Hilbert Space!}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{9}{States and Operators}}\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\slideentry {1}{3}{1}{9/9}{States and Operators}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{10}{Solving Equation of Quantum System by Qutip}}\headcommand {\beamer@subsectionpages {9}{9}}
+\headcommand {\slideentry {1}{4}{1}{10/10}{Solving Equation of Quantum System by Qutip}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {1}{4}{2}{12/12}{Solving Equation of Quantum System by Qutip}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {1}{4}{3}{14/14}{Solving Equation of Quantum System by Qutip}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {1}{4}{4}{16/16}{Solving Equation of Quantum System by Qutip}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {1}{4}{5}{17/17}{Solving Equation of Quantum System by Qutip}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {1}{4}{6}{18/18}{Solving Equation of Quantum System by Qutip}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {1}{4}{7}{19/19}{Solving Equation of Quantum System by Qutip}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\sectionentry {2}{An Introduction to Quasi-probability Theory}{22}{An Introduction to Quasi-probability Theory}{0}}
+\headcommand {\beamer@sectionpages {3}{21}}
+\headcommand {\beamer@subsectionpages {10}{21}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{22}{Motivation}}\headcommand {\beamer@subsectionpages {22}{21}}
+\headcommand {\slideentry {2}{1}{1}{22/22}{Motivation}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{24}{P-representation}}\headcommand {\beamer@subsectionpages {22}{23}}
+\headcommand {\slideentry {2}{2}{1}{24/24}{P-representation}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {2}{2}{2}{25/25}{P-representation}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {2}{2}{3}{26/26}{P-representation}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{27}{Q-representation}}\headcommand {\beamer@subsectionpages {24}{26}}
+\headcommand {\slideentry {2}{3}{1}{27/27}{Q-representation}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{28}{Wigner-function}}\headcommand {\beamer@subsectionpages {27}{27}}
+\headcommand {\slideentry {2}{4}{1}{28/28}{Wigner-function}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {2}{4}{2}{29/29}{Wigner-function}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\sectionentry {3}{Some Examples and Exercise}{30}{Some Examples and Exercise}{0}}
+\headcommand {\beamer@sectionpages {22}{29}}
+\headcommand {\beamer@subsectionpages {28}{29}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{30}{Cat State(Demo)}}\headcommand {\beamer@subsectionpages {30}{29}}
+\headcommand {\slideentry {3}{1}{1}{30/30}{Cat State(Demo)}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {3}{1}{2}{32/32}{Cat State(Demo)}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{33}{Kerr Effect to Create Cat State(Exercise)}}\headcommand {\beamer@subsectionpages {30}{32}}
+\headcommand {\slideentry {3}{2}{1}{33/33}{Kerr Effect to Create Cat State(Exercise)}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\beamer@partpages {1}{33}}
+\headcommand {\beamer@subsectionpages {33}{33}}
+\headcommand {\beamer@sectionpages {30}{33}}
+\headcommand {\beamer@documentpages {33}}
+\headcommand {\def \inserttotalframenumber {26}}
